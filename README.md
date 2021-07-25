@@ -21,3 +21,4 @@
 * Metadata store
 * Artifact store
 * Image Vulnerability Scanning
+* SPDX https://spdx.dev/resources/learn/
